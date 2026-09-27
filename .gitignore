@@ -1,0 +1,4 @@
+node_modules/
+pari-cab.db
+.env
+.DS_Store
